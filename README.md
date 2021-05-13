@@ -11,6 +11,7 @@ Full Stack developer that loves learning/reading/writing code. Learn something n
 - 📫 &nbsp; How to reach me: briansammit.cruz@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://docs.google.com/document/d/1CUp0cUWLUoJ91YJNMTXGWPt7SUkKOotnHD6iVHnTZnM/).
 - 💬 Ask me about anything
+- Click on [<img align="center" alt="BrianSammit" width="22px" src="https://img.icons8.com/color/48/000000/earth-planet.png" />][website] to see my portafolio
 
 ### Connect with me:
 
