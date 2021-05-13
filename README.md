@@ -1,14 +1,16 @@
 ### Hi there I am Brian Sammit Cruz Rodriguez👋 👋
 
+Full Stack developer that loves learning/reading/writing code. Learn something new every day. I currently looking for new opportunities.
 
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on React projects
-- 🤔 I’m looking for help with creating a youtube channel
-- 💬 Ask me about anything
-- 📫 How to reach me:<br> 
-
+🌱 &nbsp; I’m currently learning Full Stack Development.
+🛠 &nbsp; I’m currently working with HTML, CSS, SCSS, Ruby, Ruby on Rails, Javascript.
+👯 &nbsp; I’m looking to collaborate on Rails projects 
+👯 &nbsp; I’m looking to collaborate on  REACT & REDUX projects
+ 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/briansammit).
+👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
+📫 &nbsp; How to reach me: briansammit.cruz@gmail.com.
+📝 &nbsp; Checkout my [Resume](https://docs.google.com/document/d/1CUp0cUWLUoJ91YJNMTXGWPt7SUkKOotnHD6iVHnTZnM/).
+💬 Ask me about anything
 
 ### Connect with me:
 
@@ -39,7 +41,5 @@ Here are some ideas to get you started:
 [website]: https://briansammit.github.io/
 [twitter]: https://twitter.com/CruzSammit
 [linkedin]: https://www.linkedin.com/in/brian-sammit-cruz/
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=briansammit&repo=github-readme-stats)](https://github.com/briansammit/github-readme-stats)
 
 
