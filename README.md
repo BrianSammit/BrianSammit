@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="left" alt="sanadwj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanadwj&show_icons=true&hide_border=true" />
+[![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=briansammit)](https://github.com/briansammit/github-readme-stats)
+
 
 
 [website]: https://briansammit.github.io/
