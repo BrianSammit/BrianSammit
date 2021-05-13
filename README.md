@@ -2,15 +2,15 @@
 
 Full Stack developer that loves learning/reading/writing code. Learn something new every day. I currently looking for new opportunities.
 
-🌱 &nbsp; I’m currently learning Full Stack Development.
-🛠 &nbsp; I’m currently working with HTML, CSS, SCSS, Ruby, Ruby on Rails, Javascript.
-👯 &nbsp; I’m looking to collaborate on Rails projects 
-👯 &nbsp; I’m looking to collaborate on  REACT & REDUX projects
- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/briansammit).
-👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-📫 &nbsp; How to reach me: briansammit.cruz@gmail.com.
-📝 &nbsp; Checkout my [Resume](https://docs.google.com/document/d/1CUp0cUWLUoJ91YJNMTXGWPt7SUkKOotnHD6iVHnTZnM/).
-💬 Ask me about anything
+- 🌱 &nbsp; I’m currently learning Full Stack Development.
+- 🛠 &nbsp; I’m currently working with HTML, CSS, SCSS, Ruby, Ruby on Rails, Javascript.
+- 👯 &nbsp; I’m looking to collaborate on Rails projects 
+- 👯 &nbsp; I’m looking to collaborate on  REACT & REDUX projects
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/briansammit).
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
+- 📫 &nbsp; How to reach me: briansammit.cruz@gmail.com.
+- 📝 &nbsp; Checkout my [Resume](https://docs.google.com/document/d/1CUp0cUWLUoJ91YJNMTXGWPt7SUkKOotnHD6iVHnTZnM/).
+- 💬 Ask me about anything
 
 ### Connect with me:
 
