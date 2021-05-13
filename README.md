@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 [linkedin]: https://www.linkedin.com/in/brian-sammit-cruz/
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=briansammit)](https://github.com/briansammit/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=briansammit&layout=compact)](https://github.com/briansammit/github-readme-stats)
