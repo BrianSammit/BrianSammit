@@ -8,9 +8,15 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with creating a youtube channel
 - 💬 Ask me about anything
 - 📫 How to reach me:<br> 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website][<img align="left" alt="sanadwj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<br>
-- 😄 Pronouns: He/HIM
 
+
+### Connect with me:
+
+[<img align="left" alt="" width="22px" src="https://briansammit.github.io/" />][website]
+[<img align="left" alt="BrianSammit | Twitter" width="22px" src="https://twitter.com/CruzSammit" />][twitter]
+[<img align="left" alt="BrianSammit | LinkedIn" width="22px" src="https://www.linkedin.com/in/brian-sammit-cruz/" />][linkedin]
+
+<br />
 
 
 ### Languages and Tools:
