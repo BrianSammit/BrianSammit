@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ---
 
-[![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=briansammit)](https://github.com/briansammit/github-readme-stats)
+[![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=briansammit&show_icons=true)](https://github.com/briansammit/github-readme-stats)
 
 
 
