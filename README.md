@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="" width="22px" src="https://briansammit.github.io/" />][website]
 [<img align="left" alt="BrianSammit | Twitter" width="22px" src="https://twitter.com/CruzSammit" />][twitter]
 [<img align="left" alt="BrianSammit | LinkedIn" width="22px" src="https://www.linkedin.com/in/brian-sammit-cruz/" />][linkedin]
+[<img align="left" alt="Ceci007 | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />][twitter]
 
 <br />
 
