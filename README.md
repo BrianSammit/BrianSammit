@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 [![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=briansammit&show_icons=true&theme=midnight-purple)](https://github.com/briansammit/github-readme-stats)
 
-[![Brian's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=briansammit&layout=compact)](https://github.com/briansammit/github-readme-stats)
+[![Brian's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=briansammit&layout=compact&theme=midnight-purple)](https://github.com/briansammit/github-readme-stats)
 
 
 [website]: https://briansammit.github.io/
