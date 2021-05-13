@@ -12,10 +12,9 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="" width="22px" src="https://briansammit.github.io/" />][website]
-[<img align="left" alt="BrianSammit | Twitter" width="22px" src="https://twitter.com/CruzSammit" />][twitter]
-[<img align="left" alt="BrianSammit | LinkedIn" width="22px" src="https://www.linkedin.com/in/brian-sammit-cruz/" />][linkedin]
-[<img align="left" alt="Ceci007 | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />][twitter]
+[<img align="left" alt="BrianSammit" width="22px" src="https://img.icons8.com/color/48/000000/earth-planet.png" />][website]
+[<img align="left" alt="BrianSammit | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />][twitter]
+[<img align="left" alt="BrianSammit | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 
 <br />
 
@@ -36,5 +35,6 @@ Here are some ideas to get you started:
 <img align="left" alt="sanadwj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanadwj&show_icons=true&hide_border=true" />
 
 
-[linkedin]: https://www.linkedin.com/in/sanad-abujubara/
-[website]: https://github.com/sanadwj
+[website]: https://briansammit.github.io/
+[twitter]: https://twitter.com/CruzSammit
+[linkedin]: https://www.linkedin.com/in/brian-sammit-cruz/
