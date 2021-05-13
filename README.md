@@ -32,13 +32,13 @@ Here are some ideas to get you started:
 
 ---
 
-[![Brian's GitHub stats]()]()
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=briansammit&layout=compact)](https://github.com/briansammit/github-readme-stats)
-
 <a href="https://github.com/briansammit/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=briansammit&show_icons=true&theme=midnight-purple" />
 </a>
+<a href="https://github.com/briansammit/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=briansammit&layout=compact" />
+</a>
+
 
 [website]: https://briansammit.github.io/
 [twitter]: https://twitter.com/CruzSammit
