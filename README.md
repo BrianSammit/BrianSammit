@@ -1,4 +1,4 @@
-### Hi there I am Sanad, aka Sandoog 👋 👋
+### Hi there I am Brian Sammit Cruz Rodriguez👋 👋
 
 
 
