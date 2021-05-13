@@ -1,6 +1,6 @@
 ### Hi there I am Brian Sammit Cruz Rodriguez👋 👋
 
-Full Stack developer that loves learning/reading/writing code. Learn something new every day. I currently looking for new opportunities.
+Full Stack developer that loves learning/reading/writing code. Learn something new every day. I am currently looking for new opportunities.
 
 - 🌱 &nbsp; I’m currently learning Full Stack Development.
 - 🛠 &nbsp; I’m currently working with HTML, CSS, SCSS, Ruby, Ruby on Rails, Javascript.
@@ -17,8 +17,6 @@ Full Stack developer that loves learning/reading/writing code. Learn something n
 [<img align="center" alt="BrianSammit" width="22px" src="https://img.icons8.com/color/48/000000/earth-planet.png" />][website]
 [<img align="center" alt="BrianSammit | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />][twitter]
 [<img align="center" alt="BrianSammit | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-
-<br />
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
