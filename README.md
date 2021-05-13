@@ -39,3 +39,6 @@ Here are some ideas to get you started:
 [website]: https://briansammit.github.io/
 [twitter]: https://twitter.com/CruzSammit
 [linkedin]: https://www.linkedin.com/in/brian-sammit-cruz/
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=briansammit)](https://github.com/briansammit/github-readme-stats)
